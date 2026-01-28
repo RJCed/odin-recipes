@@ -4,10 +4,10 @@ My very first major project from The Odin Project. 😎
 
 🍗🍳🥩Simple Recipes of my favorite Filipino Foods🍗🍳🥩
 
-Keep on Learning 😎
+All links and credits at credits.txt
 
 Recipes From: Allrecipes, norecipes, panlasangpinoy
 
-All links and credits at credits.txt
-
 This project would not be possible without these sites :)
+
+Keep on Learning 😎
