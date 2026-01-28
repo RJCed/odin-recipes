@@ -1,3 +1,6 @@
 # odin-recipes
 My very first major project from The Odin Project. :)
-Hey I'm Arjay and this is my very first project from The Odin Project course. Keep on Learning 😎
+Keep on Learning 😎
+
+Images:
+Chicken Adobo: By Joy D. Ganaden - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127207472
