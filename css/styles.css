@@ -57,7 +57,13 @@ nav{
     height: 95.67px;
 }
 
+
+
 /* Main Content */
+
+#chicken-adobo.first-header{
+    margin-top: 25px;
+}
 
 #chicken-adobo{
     display: flex;
@@ -65,8 +71,8 @@ nav{
     gap: 25px;
     flex-wrap: wrap;
     margin: 50px;
-    margin-top: 25px;
 }
+
 
 #adobo-img{
     width: 525px;
@@ -79,19 +85,19 @@ nav{
     border-radius: 20px;
 }
 
-#adobo-title {
+#adobo-desc {
     width: 600px;
     height: auto;
     text-align: center;
 
 }
 
-#adobo-title a{
+#adobo-desc a{
     font-size: larger;
     font-weight: bolder;
 }
 
-#adobo-title p {
+#adobo-desc p {
     margin-top: 25px;
     line-height: 30px;
     word-spacing: 8px;
