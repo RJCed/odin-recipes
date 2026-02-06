@@ -17,6 +17,7 @@ a:hover{
     color: #d48b52;
 }
 
+/* Header */
 
 header,
 nav,
@@ -44,6 +45,8 @@ header{
     font-weight: bolder;
 }
 
+/* Nav and Others */
+
 nav{
     margin-top: 64px;
     padding: 13px;
@@ -57,22 +60,34 @@ nav{
     height: 95.67px;
 }
 
+.separator {
+    overflow: hidden;
+    color: #d48b52;
+    margin: 0 50px;
+}
+
+/* Footer */
+
+footer{
+    padding: 25px;
+    background-color: #fceed6;
+    color: #DCA378;
+    display: flex;
+    justify-content: center;
+}
 
 
 /* Main Content */
 
 /* Based on the first item (Chicken Adobo) */
 
-.item.first-header{
-    margin-top: 25px;
-}
 
 .item{
     display: flex;
     justify-content: flex-start;
     gap: 25px;
     flex-wrap: wrap;
-    margin: 50px;
+    margin: 25px 50px 25px 50px;
 }
 
 
@@ -114,5 +129,15 @@ nav{
 }
 
 
+
 /* Adjustments for Bulalo */
 
+#bulalo .desc .credit{
+    margin: 60px;
+}
+
+/* Adjustments for Tortang Talong */
+
+#tortang-talong .desc .credit{
+    margin: 70px;
+}
