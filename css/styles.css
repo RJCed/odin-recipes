@@ -52,3 +52,51 @@ nav{
     height: 95.67px;
 }
 
+/* Main Content */
+
+#chicken-adobo{
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+    flex-wrap: wrap;
+    margin: 50px;
+    margin-top: 25px;
+}
+
+#adobo-img{
+    width: 525px;
+    height: auto;
+}
+
+#chicken-adobo a img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+
+#adobo-title {
+    width: 600px;
+    height: auto;
+    text-align: center;
+
+}
+
+#adobo-title a{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#adobo-title p {
+    margin-top: 25px;
+    line-height: 30px;
+    word-spacing: 8px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: medium;
+    color: #DCA378;
+}
+
+#adobo-credit{
+    margin-top: 35px;
+}
+
