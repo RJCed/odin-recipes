@@ -61,6 +61,8 @@ nav{
 
 /* Main Content */
 
+/* Based on the first item (Chicken Adobo) */
+
 .item.first-header{
     margin-top: 25px;
 }
@@ -110,4 +112,7 @@ nav{
 .credit{
     margin-top: 35px;
 }
+
+
+/* Adjustments for Bulalo */
 
