@@ -61,11 +61,11 @@ nav{
 
 /* Main Content */
 
-#chicken-adobo.first-header{
+.item.first-header{
     margin-top: 25px;
 }
 
-#chicken-adobo{
+.item{
     display: flex;
     justify-content: flex-start;
     gap: 25px;
@@ -74,30 +74,30 @@ nav{
 }
 
 
-#adobo-img{
+.images{
     width: 525px;
     height: auto;
 }
 
-#chicken-adobo a img{
+.item a img{
     max-width: 100%;
     height: auto;
     border-radius: 20px;
 }
 
-#adobo-desc {
+.desc {
     width: 600px;
     height: auto;
     text-align: center;
 
 }
 
-#adobo-desc a{
+.desc a{
     font-size: larger;
     font-weight: bolder;
 }
 
-#adobo-desc p {
+.desc p {
     margin-top: 25px;
     line-height: 30px;
     word-spacing: 8px;
@@ -107,7 +107,7 @@ nav{
     color: #DCA378;
 }
 
-#adobo-credit{
+.credit{
     margin-top: 35px;
 }
 
