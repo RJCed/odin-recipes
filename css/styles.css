@@ -24,6 +24,11 @@ nav,
     background-color: #fceed6;
     color: #DCA378;
     display: flex;
+    white-space: nowrap;
+}
+
+#head a {
+    
 }
 
 .top-head{
